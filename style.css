@@ -1,0 +1,218 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: black;
+    color:white;
+    padding:15px;
+}
+h1,li,ul{
+        display: inline;
+
+    }
+    ul{
+        color:aqua;
+        margin-left:60%;
+    }
+    li:hover{
+        color:white;
+        cursor:pointer;
+    }
+input{
+    margin:70px;
+    width:60%;
+    padding:10px;
+}
+searchbar{
+    padding:30px;
+    text-align: center;
+}
+.box2{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display:inline-block;
+    margin-left:50px;
+    margin-right:30px;
+}
+img{
+    width:220px;
+    height:220px;
+    
+}
+.box2:hover{
+    background-color:pink;
+    color:blue;
+}
+.box2{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display:inline-block;
+    margin-left: 50px;
+    margin-right:30px;
+}
+.box2:hover{
+    background-color:pink;
+    color:blue;
+}
+.box2{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display:inline-block;
+    margin-left: 50px;
+    margin-right:30px;
+}
+.box2:hover{
+    background-color:pink;
+    color:blue;
+}
+.box2{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display:inline-block;
+    margin-left: 50px;
+    margin-right: 30px;
+}
+.box2:hover{
+    background-color:pink;
+    color:blue;
+}
+.box2{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display:inline-block;
+    margin-left: 50px;
+    margin-right: 30px;
+    margin:20px;
+}
+.box2:hover{
+    background-color:pink;
+    color:blue;
+}
+.box3{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display:inline-block;
+    margin-left: 50px;
+    margin-right: 30px;
+    margin:20px;
+}
+.box3:hover{
+    background-color:pink;
+    color:blue;
+}
+.box2{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display:inline-block;
+    margin-left: 50px;
+    margin-right: 30px;
+    margin:20px;
+}
+.box2:hover{
+    background-color:pink;
+    color:blue;
+}
+.box2{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display:inline-block;
+    margin-left: 50px;
+    margin-right: 30px;
+    margin:20px;
+}
+.box2:hover{
+    background-color:pink;
+    color:blue;
+}
+.box2{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display:inline-block;
+    margin-left: 50px;
+    margin-right: 30px;
+    margin:20px;
+}
+.box2:hover{
+    background-color:pink;
+    color:blue;
+}
+
+.box2{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display:inline-block;
+    margin-left: 50px;
+    margin-right: 30px;
+    margin:20px;
+}
+.box2:hover{
+    background-color:pink;
+    color:blue;
+}
+.box3{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display:inline-block;
+    margin-left: 50px;
+    margin-right: 30px;
+    margin:20px;
+}
+.box3:hover{
+    background-color:pink;
+    color:blue;
+}
+.box2{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display:inline-block;
+    margin-left: 50px;
+    margin-right: 30px;
+    margin:20px;
+}
+.box2:hover{
+    background-color:pink;
+    color:blue;
+}
+.contact{
+       margin-top:200px;
+       height:30px;
+       display:block; 
+       
+    
+}
+h4{
+    padding-top:30px;
+    padding-bottom:30px;
+    background-color:black;
+    color:white;
+    text-align: center;
+}
+.ten{ background-color:black;
+    color:white;
+    text-align: center;
+}
+    
+.about{
+    padding-top:30px;
+    padding-bottom:30px;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right:20px;
+      text-align: center;
+    background-color: paleturquoise;
+}
+
+
